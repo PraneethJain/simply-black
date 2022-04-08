@@ -1,10 +1,37 @@
 {
 	"name": "Simply Black",
 	"colors": {
-		"editor.background": "#263238",
-		"editor.foreground": "#eeffff",
-		"activityBarBadge.background": "#007acc",
-		"sideBarTitle.foreground": "#bbbbbb"
+		// The border that shows when selecting stuff
+		"focusBorder": "#000000",
+
+		// Editor
+		"editor.background": "#000000",
+		"editor.foreground": "#3ff2ff",
+
+		//Editor tabs
+		"editorGroupHeader.tabsBackground": "#000000",
+
+
+		// Activity Bar
+		"activityBar.background":"#000000",
+		"tab.activeBackground": "#000000",
+		"tab.border": "#00000000",
+		"tab.inactiveBackground": "#000000",
+
+		// Side Bar
+		"sideBar.background": "#000000",
+		"sideBarSectionHeader.background": "#000000",
+		"sideBarSectionHeader.foreground": "#fcff3e",
+
+		// Status Bar
+		"statusBar.background": "#000000",
+		"statusBar.foreground": "#ffffff",
+
+		// Title Bar
+		"titleBar.activeBackground": "#000000",
+
+		// Lists
+
 	},
 	"tokenColors": [
 		{
@@ -75,7 +102,7 @@
 				"keyword.other.substitution"
 			],
 			"settings": {
-				"foreground": "#89DDFF"
+				"foreground": "#00b7ff"
 			}
 		},
 		{
@@ -99,7 +126,7 @@
 				"keyword.other.special-method"
 			],
 			"settings": {
-				"foreground": "#82AAFF"
+				"foreground": "#4f87ff"
 			}
 		},
 		{
