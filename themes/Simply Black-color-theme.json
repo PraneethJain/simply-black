@@ -1,13 +1,25 @@
 {
 	"name": "Simply Black",
 	"colors": {
+		
+		"editorWidget.background": "#000000",
+		"editorWidget.resizeBorder": "#ffffff2e",
 		// The border that shows when selecting stuff
 		"focusBorder": "#000000",
 
 		// Editor
 		"editor.background": "#000000",
 		"editor.foreground": "#3ff2ff",
-
+		"editor.selectionBackground": "#ffffff2b",
+		"editor.findMatchBackground": "#ffffff3f",
+		"editor.findMatchHighlightBackground": "#ffffff2b",
+		"editor.hoverHighlightBackground": "#ffffff20",
+		"editorHoverWidget.background": "#000000",
+		"editorHoverWidget.border": "#ffffff2e",
+		"editorSuggestWidget.background": "#000000",
+		"editorSuggestWidget.selectedBackground": "#ffffff0f",
+		"editorSuggestWidget.foreground": "#75f6ff",
+		
 		//Editor tabs
 		"editorGroupHeader.tabsBackground": "#000000",
 
@@ -32,8 +44,10 @@
 		"titleBar.activeBackground": "#000000",
 
 		// Input
-		"input.background": "#0c0c0c"
-		// Lists
+		"input.background": "#0c0c0c",
+		
+		// Dropdown
+		"dropdown.background": "#0c0c0c",
 
 	},
 	"tokenColors": [
