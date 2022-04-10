@@ -3,11 +3,23 @@
     "displayName": "Simply Black",
     "description": "Very black indeed",
     "version": "0.0.1",
+    "publisher": "PraneethJain",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/PraneethJain/Simply-Black"
+    },
     "engines": {
         "vscode": "^1.66.0"
     },
     "categories": [
         "Themes"
+    ],
+    "keywords": [
+        "theme",
+        "dark theme",
+        "black theme",
+        "simply black",
+        "pitch black theme"
     ],
     "contributes": {
         "themes": [
