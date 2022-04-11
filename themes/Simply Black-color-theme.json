@@ -33,7 +33,7 @@
 		// Side Bar
 		"sideBar.background": "#000000",
 		"sideBarSectionHeader.background": "#000000",
-		"sideBarSectionHeader.foreground": "#fcff3e",
+		"sideBarSectionHeader.foreground": "#ce9178",
 		"sideBar.border": "#ffffff20",
 
 		// Status Bar
