@@ -1,5 +1,6 @@
 # Simply Black
-## Absolutely black vscode theme (for my personal use)
-Hmm yes it is very black
+## Absolutely black vscode theme
+
+A theme where most of the backgrounds are #000000
 
 **Enjoy!**
