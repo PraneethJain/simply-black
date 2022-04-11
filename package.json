@@ -19,7 +19,9 @@
         "dark theme",
         "black theme",
         "simply black",
-        "pitch black theme"
+        "pitch black theme",
+        "black",
+        "dark"
     ],
     "contributes": {
         "themes": [
